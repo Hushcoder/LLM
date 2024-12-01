@@ -1,0 +1,1 @@
+This repository contains the building blocks or the detailed steps to create an LLM from scratch on small dataset(Mahabharata Book)......no larger computations as  of at the time of GPT training (~667 Billion parameters)
